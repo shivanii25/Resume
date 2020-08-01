@@ -1,0 +1,19 @@
+body{background-color:#b7efcd;}
+hr{background-color:#b7efcd;
+  border-style: dotted;
+  border-top: none;
+  border-bottom:dotted;
+  width:5%;
+  border-width: 5px;
+}
+img{;
+  border-radius: 0%;
+}
+
+.hello{background-color: green}
+.hell{border-radius: 50%}
+
+
+.pra{height: 15px;
+width: 150px;
+background-color: yellow;}
